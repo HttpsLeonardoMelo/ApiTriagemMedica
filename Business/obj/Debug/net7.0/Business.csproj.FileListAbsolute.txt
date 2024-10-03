@@ -1,0 +1,15 @@
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Work-Leonardo\AplicativoNet\Business\bin\Debug\net7.0\Business.deps.json
+C:\Work-Leonardo\AplicativoNet\Business\bin\Debug\net7.0\Business.dll
+C:\Work-Leonardo\AplicativoNet\Business\bin\Debug\net7.0\Business.pdb
+C:\Work-Leonardo\AplicativoNet\Business\bin\Debug\net7.0\Data.dll
+C:\Work-Leonardo\AplicativoNet\Business\bin\Debug\net7.0\Data.pdb
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.csproj.Up2Date
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.dll
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\Business.pdb
+C:\Work-Leonardo\AplicativoNet\Business\obj\Debug\net7.0\ref\Business.dll

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work-Leonardo\\AplicativoNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|c:\\work-leonardo\\aplicativonet\\api\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|solutionrelative:api\\controllers\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|c:\\work-leonardo\\aplicativonet\\data\\constantes\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|solutionrelative:data\\constantes\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|c:\\work-leonardo\\aplicativonet\\api\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|solutionrelative:api\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|c:\\work-leonardo\\aplicativonet\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C208CBF-9F55-4C14-A345-F1F3E5925814}|Business\\Business.csproj|c:\\work-leonardo\\aplicativonet\\business\\transferobjects\\medicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C208CBF-9F55-4C14-A345-F1F3E5925814}|Business\\Business.csproj|solutionrelative:business\\transferobjects\\medicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|c:\\work-leonardo\\aplicativonet\\data\\interfaces\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|solutionrelative:data\\interfaces\\imedicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|c:\\work-leonardo\\aplicativonet\\data\\repositories\\especialidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|solutionrelative:data\\repositories\\especialidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|c:\\work-leonardo\\aplicativonet\\data\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|solutionrelative:data\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|c:\\work-leonardo\\aplicativonet\\api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849D6A1-871A-4DFE-8201-C129C28976A7}|Api\\Api.csproj|solutionrelative:api\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|c:\\work-leonardo\\aplicativonet\\data\\repositories\\atendimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B143999-F682-4CAF-AE02-0624F21C7A51}|Data\\Data.csproj|solutionrelative:data\\repositories\\atendimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EspecialidadeController.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\EspecialidadeController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EspecialidadeController.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\EspecialidadeController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EspecialidadeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:44:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Constantes\\Resources.resx",
+              "RelativeDocumentMoniker": "Data\\Constantes\\Resources.resx",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Constantes\\Resources.resx",
+              "RelativeToolTip": "Data\\Constantes\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-27T19:44:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:43:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicoDto.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Business\\TransferObjects\\MedicoDto.cs",
+              "RelativeDocumentMoniker": "Business\\TransferObjects\\MedicoDto.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Business\\TransferObjects\\MedicoDto.cs",
+              "RelativeToolTip": "Business\\TransferObjects\\MedicoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMedicoRepository.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Interfaces\\IMedicoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IMedicoRepository.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Interfaces\\IMedicoRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IMedicoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:28.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EspecialidadeRepository.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Repositories\\EspecialidadeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\EspecialidadeRepository.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Repositories\\EspecialidadeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\EspecialidadeRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Models\\Paciente.cs",
+              "RelativeToolTip": "Data\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:32:05.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtendimentoRepository.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Repositories\\AtendimentoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\AtendimentoRepository.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Data\\Repositories\\AtendimentoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\AtendimentoRepository.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:28:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtendimentoController.cs",
+              "DocumentMoniker": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\AtendimentoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AtendimentoController.cs",
+              "ToolTip": "C:\\Work-Leonardo\\AplicativoNet\\Api\\Controllers\\AtendimentoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AtendimentoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:24:43.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
